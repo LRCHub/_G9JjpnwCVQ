@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "GUTS!",
+  "base_artist": "ARASHI",
+  "createdAt": "2026-02-21T02:53:38.897224Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Neon Guts (feat. Pharrell Williams)",
+      "artist": "Lil Uzi Vert feat. Pharrell Williams",
+      "has_synced": true,
+      "path": "select/01_Neon_Guts_(feat._Pharrell_Williams)_Lil_Uzi_Vert_feat._Pharrell_Williams.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Guts",
+      "artist": "Micachu & The Shapes",
+      "has_synced": false,
+      "path": "select/02_Guts_Micachu_&_The_Shapes.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Spilling Guts",
+      "artist": "Animal Collective",
+      "has_synced": false,
+      "path": "select/03_Spilling_Guts_Animal_Collective.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Guts",
+      "artist": "Elohim",
+      "has_synced": true,
+      "path": "select/04_Guts_Elohim.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Guts No Glory",
+      "artist": "Deptford Goth",
+      "has_synced": true,
+      "path": "select/05_Guts_No_Glory_Deptford_Goth.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Guts",
+      "artist": "Gazelle Twin",
+      "has_synced": true,
+      "path": "select/06_Guts_Gazelle_Twin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Regurgitated Guts",
+      "artist": "Death",
+      "has_synced": false,
+      "path": "select/07_Regurgitated_Guts_Death.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Regurgitated Guts",
+      "artist": "Death",
+      "has_synced": true,
+      "path": "select/08_Regurgitated_Guts_Death.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "your guts in my hands",
+      "artist": "galen tipton feat. jade fawn & diana starshine",
+      "has_synced": false,
+      "path": "select/09_your_guts_in_my_hands_galen_tipton_feat._jade_fawn_&_diana_starshine.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "your guts in my hands (feat. jade fawn & diana starshine)",
+      "artist": "Galen Tipton",
+      "has_synced": false,
+      "path": "select/10_your_guts_in_my_hands_(feat._jade_fawn_&_diana_starshine)_Galen_Tipton.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Slit Your Guts",
+      "artist": "Cryptopsy",
+      "has_synced": false,
+      "path": "select/11_Slit_Your_Guts_Cryptopsy.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "No Guts No Glory",
+      "artist": "Iron Savior",
+      "has_synced": false,
+      "path": "select/12_No_Guts_No_Glory_Iron_Savior.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Blood, Guts & Rock 'n' Roll",
+      "artist": "TANKARD",
+      "has_synced": false,
+      "path": "select/13_Blood,_Guts_&_Rock_'n'_Roll_TANKARD.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Guts",
+      "artist": "All Time Low",
+      "has_synced": true,
+      "path": "select/14_Guts_All_Time_Low.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "It Takes Blood & Guts To Be This Cool But Im Still Just a Cliche",
+      "artist": "Skunk Anansie",
+      "has_synced": false,
+      "path": "select/15_It_Takes_Blood_&_Guts_To_Be_This_Cool_But_Im_Still_Just_a_Cliche_Skunk_Anansie.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GUTS!",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_GUTS!_嵐.txt"
+    }
+  ]
+}
